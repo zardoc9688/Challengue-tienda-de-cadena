@@ -7,17 +7,17 @@
 
 ---
 
-## 📝 Descripción del Proyecto
+##  Descripción del Proyecto
 
 Este proyecto consiste en un **análisis exploratorio de datos (EDA)** aplicado al portafolio comercial del Sr. Juan, compuesto por cuatro tiendas de retail. El objetivo principal es evaluar el desempeño de cada tienda a través de métricas clave de negocio y emitir una **recomendación estratégica fundamentada en datos** sobre cuál tienda debería venderse.
 
 El análisis abarca un total de **~9.435 transacciones** distribuidas entre las cuatro tiendas, evaluando las siguientes dimensiones:
 
-- 💰 **Ingresos totales** generados por cada tienda
-- 🛍️ **Categorías de productos** más y menos vendidas
-- ⭐ **Calificaciones promedio** de satisfacción del cliente
-- 📦 **Productos** con mayor y menor rotación de ventas
-- 🚚 **Costo promedio de envío** por tienda
+-  **Ingresos totales** generados por cada tienda
+-  **Categorías de productos** más y menos vendidas
+-  **Calificaciones promedio** de satisfacción del cliente
+-  **Productos** con mayor y menor rotación de ventas
+-  **Costo promedio de envío** por tienda
 
 Al final del análisis, se elaboró un **informe de conclusiones** con la recomendación de vender la **Tienda 4**, sustentada en evidencia cuantitativa extraída de los datos.
 
@@ -34,7 +34,7 @@ Al final del análisis, se elaboró un **informe de conclusiones** con la recome
 
 ---
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
  Challengue-tienda-de-cadena/
@@ -45,7 +45,7 @@ Al final del análisis, se elaboró un **informe de conclusiones** con la recome
 
 ---
 
-## 🚀 Cómo Ejecutar el Proyecto
+##  Cómo Ejecutar el Proyecto
 
 1. Abre el notebook directamente en **Google Colab**:
    - Ve a [colab.research.google.com](https://colab.research.google.com)
@@ -58,7 +58,7 @@ Al final del análisis, se elaboró un **informe de conclusiones** con la recome
 
 ---
 
-## 📈 Resultados Principales
+##  Resultados Principales
 
 | Tienda | Ingreso Total | Rating Prom. | Costo Envío Prom. |
 |--------|--------------|-------------|-------------------|
@@ -67,10 +67,10 @@ Al final del análisis, se elaboró un **informe de conclusiones** con la recome
 | Tienda 3 | $1.098.019.600 | 4.05 | $24.806 |
 | **Tienda 4** | **$1.038.375.700** | 4.00 | **$23.459** |
 
-> 🎯 **Conclusión:** Se recomienda vender la **Tienda 4** por presentar el menor ingreso total del portafolio, el peor desempeño en categorías estratégicas como Electrodomésticos e Instrumentos musicales, y por no lograr convertir su ventaja logística (menor costo de envío) en mayores ventas.
+>  **Conclusión:** Se recomienda vender la **Tienda 4** por presentar el menor ingreso total del portafolio, el peor desempeño en categorías estratégicas como Electrodomésticos e Instrumentos musicales, y por no lograr convertir su ventaja logística (menor costo de envío) en mayores ventas.
 
 ---
 
-## 👤 Juan Camilo Mantilla Ramirez
+##  Juan Camilo Mantilla Ramirez
 
 Desarrollado como parte del challenge de análisis de datos de **Alura Latam**.
