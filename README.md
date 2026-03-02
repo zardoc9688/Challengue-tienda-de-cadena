@@ -1,4 +1,4 @@
-# 📊 Análisis de Tiendas — AluraStore Latam
+#  Análisis de Tiendas — AluraStore Latam
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=flat&logo=pandas&logoColor=white)
